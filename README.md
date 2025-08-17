@@ -1,50 +1,74 @@
-# Harry Edwards
+# Harrison Edwards
 
-**21 years old. 8 years of entrepreneurship. Now building software.**
+**21 years old. Building software after bootstrapping a $1.65M video editing agency.**
 
 ---
 
 ## About
 
-Started my entrepreneurial journey at 13. Failed at some ventures, succeeded at others. Built the #1 Fiverr gig by orders completed. For the past 2 years, I've been investing everything into software development. Still failing sometimes, but enjoying every minute of it.
+I'm a 21 year old entrepreneur who is playfully experimenting with different things on this beautiful world. Started my journey at 13, failed at 20+ ventures, built the largest video editing gig on Fiverr, and now diving deep into software.
 
-## Journey
+## Current Ventures
 
-```
-13 → Started first business
-15 → Multiple failures, learned resilience  
-17 → Found success on Fiverr
-19 → Achieved #1 Fiverr gig by orders
-20 → Pivoted to software development
-21 → Building AI-powered tools
-```
+### Cognition.cv
+*Jun 2024 - Present*
 
-## Current Focus
+Started with a 14-day challenge to map emotions onto a timeline using Gemini's 1M token context window. Vibe coded the first version in one night, then couldn't stop building. Now creating the personal intelligence platform that reveals who you are through your digital footprint.
 
-Building beautiful data visualizations and AI-powered emotional intelligence tools. Combining 8 years of business experience with modern software development.
+- Launched WhatsApp analysis MVP that transforms messages into beautiful life visualizations
+- Running everything solo while bootstrapping from my Fiverr business
+- Vision: Unify digital breadcrumbs (WhatsApp, Spotify, Instagram) into one coherent map of your mind
 
-## Projects
+### HarryEcom Video Editing Agency  
+*Jan 2020 - Present*
 
-### [Emotional Circumplex Visualization](https://github.com/harrythentrepreneur/emotional-circumplex-viz)
-Beautiful D3.js visualization with organic blob effects. Interactive emotional state mapping.
+Built the largest Fiverr gig in the 'video editing' niche (NYSE: FVRR)
+- **$1,650,620+ AUD** in revenue
+- **17,000+** completed orders
+- **4.94** average verified rating
+- **16+** team members (remote + physical office)
 
-### Cognition
-WhatsApp chat analyzer with psychological insights. AI-powered emotional intelligence. *(Coming soon)*
+## Previous Ventures
 
-## Tech
+### Enzi
+*Dec 2023 - Jul 2024*
+
+Assembled a remote dev team in Sri Lanka, bootstrapped with Fiverr profits. Built and launched 5 products at lightning speed:
+- Niyoz.co (5 days)
+- Focusgate.io (3 days)
+- Inboxclarity.io (2 days)
+- Fubuu.com (4 days)
+- Phoncismaker.com (4 days)
+
+### 16 Ecommerce Stores
+*Jan 2018 - Mar 2020*
+
+Chief Failing Officer (CFO) - Built, scaled, and experimented with 16+ different stores
+- **$200k AUD** total revenue
+- **$100k+** spent on Facebook, Snapchat, Influencer ads
+- **200+** products tested
+- Failed, failed, failed, succeeded, failed, succeeded, failed, and failed
+
+### 20+ Other Ventures
+*2016 - 2023*
+
+Many failures, many lessons learned.
+
+## Philosophy
+
+> "I wouldn't be where I am now without the mandatory experience of failing."
+
+## Tech Stack
 
 **Languages:** TypeScript, Python, JavaScript  
 **Frontend:** React, Next.js, D3.js  
 **Backend:** FastAPI, Node.js  
+**AI/ML:** Gemini API, LangChain  
 **Tools:** Git, Docker, VS Code  
-
-## Philosophy
-
-> "At 21, I've failed more than most people my age have even tried. That's my superpower."
 
 ## Connect
 
-[Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/yourusername) • [Twitter](https://twitter.com/yourusername)
+[LinkedIn](https://linkedin.com/in/harrison-edwards) • [GitHub](https://github.com/harrythentrepreneur) • [Email](mailto:your.email@example.com)
 
 ---
 
