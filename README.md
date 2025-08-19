@@ -63,7 +63,7 @@ Many failures, many lessons learned.
 **Languages:** TypeScript, Python, JavaScript  
 **Frontend:** React, Next.js, D3.js  
 **Backend:** FastAPI, Node.js  
-**AI/ML:** Gemini API, OpenAI API, just API wrappers ;) 
+**AI/ML:** Gemini API, OpenAI API, just API wrappers ;)
 **Tools:** Git, Docker, Claude Code, Cursor (sometimes but now they messed up their pricing) 
 
 ## Connect
