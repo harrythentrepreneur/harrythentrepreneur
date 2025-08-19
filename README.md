@@ -11,7 +11,7 @@ I'm a 21 year old entrepreneur who is playfully experimenting with different thi
 ## Current Ventures
 
 ### Cognition.cv
-*Jun 2024 - Present*
+*Jun 2025 - Present*
 
 Started with a 14-day challenge to map emotions onto a timeline using Gemini's 1M token context window. Vibe coded the first version in one night, then couldn't stop building. Now creating the personal intelligence platform that reveals who you are through your digital footprint.
 
@@ -56,15 +56,15 @@ Many failures, many lessons learned.
 
 ## Philosophy
 
-> "I wouldn't be where I am now without the mandatory experience of failing."
+> "Nothing is good, nothing is bad <3"
 
 ## Tech Stack
 
 **Languages:** TypeScript, Python, JavaScript  
 **Frontend:** React, Next.js, D3.js  
 **Backend:** FastAPI, Node.js  
-**AI/ML:** Gemini API, LangChain  
-**Tools:** Git, Docker, VS Code  
+**AI/ML:** Gemini API, OpenAI API, just API wrappers ;) 
+**Tools:** Git, Docker, Claude Code, Cursor (sometimes but now they messed up their pricing) 
 
 ## Connect
 
