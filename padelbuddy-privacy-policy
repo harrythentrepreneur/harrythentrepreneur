@@ -1,0 +1,149 @@
+ Privacy Policy for PadelBuddy
+
+  Last Updated: December 20, 2024
+
+  Introduction
+
+  PadelBuddy ("we," "our," or "us") is an AI-powered video analysis application for padel sports. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application.
+
+  Information We Collect
+
+  Account Information
+
+  - Device Identifier: We automatically generate a unique anonymous device ID to identify your account
+  - Email Address: If you create an account (optional)
+  - Display Name: Your chosen username (optional)
+
+  Video Content
+
+  - Match Videos: Videos you upload for AI analysis
+  - Video Metadata: Duration, date uploaded, file size
+  - Generated Highlights: Clips created from your uploaded videos
+  - Thumbnails: Preview images generated from your videos
+
+  Usage Data
+
+  - App Settings: Your preferences for notifications, video quality, language, and download settings
+  - Match History: Records of your uploaded matches and generated highlights
+
+  Subscription Information
+
+  - Purchase Status: Whether you have an active subscription
+  - Subscription Type: Monthly or yearly plan (if applicable)
+
+  Note: We do not collect or store your payment card details. All payment processing is handled securely by Apple (App Store) and our subscription management provider, RevenueCat.
+
+  How We Use Your Information
+
+  Video Processing
+
+  Your uploaded videos are processed using:
+  - Google Gemini AI: To analyze gameplay and identify highlight-worthy moments (rallies, smashes, saves, etc.)
+  - Computer Vision: To detect players and gameplay patterns
+
+  Service Delivery
+
+  - To provide AI-powered video analysis and highlight generation
+  - To sync your matches and highlights across sessions
+  - To manage your subscription and premium features
+  - To send notifications about processing status (with your permission)
+
+  Service Improvement
+
+  - To improve our AI analysis accuracy
+  - To optimize app performance
+
+  Data Storage and Security
+
+  Local Storage
+
+  - iOS Keychain / Android Keystore: Securely stores your authentication credentials using platform encryption
+  - Local Database (Hive): Stores match data and settings on your device for offline access
+
+  Server Storage
+
+  - Backend Database: Your match metadata and highlights are stored on our secure servers hosted on Railway
+  - Video Processing: Videos are temporarily cached during processing and automatically deleted after analysis is complete
+
+  Security Measures
+
+  - All data transmitted between your device and our servers uses HTTPS encryption
+  - Sensitive credentials are stored using platform-native secure storage (iOS Keychain, Android Keystore)
+  - Server infrastructure is protected with industry-standard security practices
+
+  Third-Party Services
+
+  We use the following third-party services:
+
+  | Service          | Purpose                                | Privacy Policy                       |
+  |------------------|----------------------------------------|--------------------------------------|
+  | Google Gemini AI | Video analysis and highlight detection | https://policies.google.com/privacy  |
+  | RevenueCat       | Subscription management                | https://www.revenuecat.com/privacy   |
+  | Apple App Store  | Payment processing                     | https://www.apple.com/legal/privacy/ |
+
+  Data Retention
+
+  - Videos: Processed videos are temporarily stored during analysis (typically deleted within 24 hours of processing completion)
+  - Highlights: Generated highlight clips are retained until you delete them or your account
+  - Account Data: Retained while your account is active
+  - Match History: Retained until you delete individual matches or your account
+
+  Your Rights and Choices
+
+  Access and Control
+
+  - View Your Data: Access all your matches and highlights within the app
+  - Delete Matches: Remove individual matches and their associated highlights at any time
+  - Delete Account: Permanently delete your account and all associated data through Settings > Delete Account
+
+  Notifications
+
+  - You can enable or disable notifications in the app settings
+  - Processing status notifications are optional
+
+  Data Export
+
+  - You can save generated highlights to your device's photo library
+
+  Children's Privacy
+
+  PadelBuddy is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.
+
+  International Data Transfers
+
+  Your data may be processed on servers located outside your country of residence. By using PadelBuddy, you consent to the transfer of your information to facilities outside your jurisdiction.
+
+  Changes to This Policy
+
+  We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+  - Posting the new Privacy Policy in the app
+  - Updating the "Last Updated" date
+
+  Your continued use of PadelBuddy after changes constitutes acceptance of the updated policy.
+
+  Contact Us
+
+  If you have questions about this Privacy Policy or our data practices, please contact us at:
+
+  Email: harrythentrepreneur@gmail.com
+
+  Developer: Harry Edwards
+
+  ---
+  California Privacy Rights (CCPA)
+
+  If you are a California resident, you have the right to:
+  - Know what personal information we collect
+  - Request deletion of your personal information
+  - Opt-out of the sale of your personal information (Note: We do not sell personal information)
+
+  European Privacy Rights (GDPR)
+
+  If you are in the European Economic Area, you have rights including:
+  - Access to your personal data
+  - Correction of inaccurate data
+  - Deletion of your data ("right to be forgotten")
+  - Data portability
+  - Objection to processing
+
+  To exercise any of these rights, please contact us using the information above.
