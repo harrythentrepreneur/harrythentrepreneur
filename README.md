@@ -1,50 +1,64 @@
-<h1 align="center">Harry Edwards</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI that does the work. People who make the call.</b><br>
-  Founder of <a href="https://omo.space">Omo Research</a> · building since 13
-</p>
+```
+harrison edwards · 逸梵 yì fàn
+unbounded & free-spirited
+```
 
-<p align="center">
-  <a href="https://omo.space">omo.space</a> ·
-  <a href="#open-source">Open source</a> ·
-  <a href="#products">Products</a> ·
-  <a href="#how-i-build">How I build</a>
-</p>
+</div>
 
----
+```
++ what i'm building
+```
 
-I build agents that work in the places people already are: their Discord, their inbox, their phone, the classroom. A team of AI agents helps me run real products for teachers and small businesses every day. Most of what I open source started as a tool I needed for that work.
+started at 13 with shopify dropshipping. left school at 15 to do it full time, then built a fiverr video agency that did 19,600+ orders over six years, all bootstrapped and mostly solo.
 
-**Right now:** voice control for agents, approval-gated automation, and a marketplace where anyone can run or sell an AI workflow.
+now building **[omo.space](https://omo.space)** with kaviru hapuarachchi: a marketplace of proven ai workflows. pick one, give it one input, get the finished result. pay cents to a few dollars per result, no subscription. every recipe is open.
 
-## Open source
+```
++ open source
+```
 
-| Project | What it does | Built with |
+things i built for real work, cleaned up and set free.
+
+| | | |
 | --- | --- | --- |
-| **[Sayso](https://github.com/harrythentrepreneur/sayso)** | Customer support where the AI drafts and you tap Yes. Each reply is sent once, with proof. | Python, zero deps |
-| **[Voice Commander for Discord](https://github.com/harrythentrepreneur/discord-voice-commander)** | Run your Discord by voice from your phone: catch up, post, open threads, undo. | Node, realtime voice |
-| **[omo · hologram](https://github.com/harrythentrepreneur/omo-hologram)** | A holographic business assistant you talk to, with live data and charts in the air. | Gemini Live, Node |
-| **[Omni](https://github.com/harrythentrepreneur/omni)** | Point your phone at any object and it wakes up with a face and a voice. | Next.js, YOLO segmentation |
-| **[Screenshots → Training Video](https://github.com/harrythentrepreneur/screenshots-to-training-video)** | A folder of screenshots in, a narrated how-to video out. | GPT-4o, Gemini, FFmpeg |
-| **[Emotional Circumplex Viz](https://github.com/harrythentrepreneur/emotional-circumplex-viz)** | Emotions drawn as soft, blending blobs. | D3.js |
-| **[video-SALMONN 2 on RunPod](https://github.com/harrythentrepreneur/video-SALMONN-2-runpod)** | The video-SALMONN 2 audio-visual captioning model on RunPod serverless GPUs. | Python, RunPod |
+| **[sayso](https://github.com/harrythentrepreneur/sayso)** | ai support that waits for your say-so. it drafts, you tap yes, it sends once. | python · zero deps |
+| **[voice commander](https://github.com/harrythentrepreneur/discord-voice-commander)** | talk to your discord: catch up, post, open threads and undo, from your phone. | node · realtime voice |
+| **[omo · hologram](https://github.com/harrythentrepreneur/omo-hologram)** | a holographic operator for your business. ask out loud and the chart appears in the air. | gemini live |
+| **[cognition](https://github.com/harrythentrepreneur/cognition-insights)** | read the story hidden in your chats, privately, in the browser. plus an ad-creative x-ray. | next.js · gemini |
+| **[dabu](https://github.com/harrythentrepreneur/dabu-studio)** | script + raw footage in, a cut tiktok ad out. ai picks every clip. | gemini · runpod · ffmpeg |
+| **[support inbox ai](https://github.com/harrythentrepreneur/support-inbox-ai)** | every support email becomes a reply draft and a ready-to-fix github issue. | next.js · prisma |
+| **[omni](https://github.com/harrythentrepreneur/omni)** | point your phone at a mug and it wakes up with a face and a voice. | next.js · yolo |
+| **[screenshots → video](https://github.com/harrythentrepreneur/screenshots-to-training-video)** | a folder of screenshots in, a narrated how-to video out. | gpt-4o · heygen |
+| **[emotional circumplex](https://github.com/harrythentrepreneur/emotional-circumplex-viz)** | emotions drawn as soft, blending blobs. | d3.js |
 
-I also send fixes upstream to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)**, the open-source agent my whole setup runs on.
+and small fixes upstream to **[hermes agent](https://github.com/NousResearch/hermes-agent)**, the agent everything here runs on.
 
-## Products
+```
++ products
+```
 
-- **[Omo](https://omo.space)**: run a proven AI workflow for cents, or sell the one you built.
-- **[PhonicsMaker](https://www.phonicsmaker.com)**: decodable phonics books and resources for teachers and parents.
-- **[RapidWorksheet](https://rapidworksheet.com)**: curriculum-aligned worksheets, ready to print or edit.
-- **[Baker](https://textbaker.com)**: text what you need and get it back ready to print.
+[omo](https://omo.space) · [phonicsmaker](https://www.phonicsmaker.com) · [rapidworksheet](https://rapidworksheet.com) · [baker](https://textbaker.com)
 
-## How I build
+```
++ how i build
+```
 
-- **The AI does the work; a person makes the decision.** Money, customer messages and anything public wait for a yes.
-- **Prove it.** A feature is done when it works on the live page, not when it looks right in a diff.
-- **Small steps, real users.** Ship, watch what breaks, then fix it.
+- the ai does the work. a person makes the call.
+- it's done when it works on the live page, not when the diff looks right.
+- ship small, watch what breaks, fix it.
 
-## Writing
+```
++ writing
+```
 
-- *Omo Builder* technical report, with Kaviru Hapuarachchi (2026). [doi:10.13140/RG.2.2.29512.89604](https://doi.org/10.13140/RG.2.2.29512.89604)
+*omo builder*: technical report, with kaviru hapuarachchi (2026). [doi:10.13140/RG.2.2.29512.89604](https://doi.org/10.13140/RG.2.2.29512.89604)
+
+```
++ elsewhere
+```
+
+[yifan.art](https://yifan.art) · [omo.space](https://omo.space)
+
+<sub>yifan · 逸梵 © 2026</sub>
