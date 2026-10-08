@@ -1,40 +1,50 @@
-# Hi, I'm Harry 👋
+<h1 align="center">Harry Edwards</h1>
 
-I build AI agents, voice interfaces and small, useful software at **[Omo Research](https://omo.space)**.
+<p align="center">
+  <b>AI that does the work. People who make the call.</b><br>
+  Founder of <a href="https://omo.space">Omo Research</a> · building since 13
+</p>
 
-My work sits where agents meet real life: tools that teachers, creators and small teams use every day, and experiments in how it should *feel* to work next to an AI. I've been an entrepreneur since I was 13. Most of what I learn comes from shipping products to real customers and fixing what breaks.
+<p align="center">
+  <a href="https://omo.space">omo.space</a> ·
+  <a href="#open-source">Open source</a> ·
+  <a href="#products">Products</a> ·
+  <a href="#how-i-build">How I build</a>
+</p>
 
-## 🚀 Open source
+---
 
-### 🤖 Agents and voice
+I build agents that work in the places people already are: their Discord, their inbox, their phone, the classroom. A team of AI agents helps me run real products for teachers and small businesses every day. Most of what I open source started as a tool I needed for that work.
 
-- **[Sayso](https://github.com/harrythentrepreneur/sayso)**: AI support that waits for your say-so. An approval-gated customer-support loop: the AI drafts, you tap Yes, it sends once and proves it. No dependencies, and every safety guard is mutation-tested.
-- **[Voice Commander for Discord](https://github.com/harrythentrepreneur/discord-voice-commander)**: talk to your Discord from your phone. Catch up, post, open threads and track work by voice, hands-free. Self-hosted.
-- **[omo · hologram](https://github.com/harrythentrepreneur/omo-hologram)**: a voice-first holographic operator for your business. Gemini Live voice, live Stripe/Meta/Gmail data, charts in the air, and scout agents you can hand work to.
-- **[Omni](https://github.com/harrythentrepreneur/omni)**: give everything a soul. Point your phone at a mug or a houseplant and it wakes up with a face, a personality and a voice you can talk to.
+**Right now:** voice control for agents, approval-gated automation, and a marketplace where anyone can run or sell an AI workflow.
 
-### 🎬 Media and data
+## Open source
 
-- **[Screenshots → Training Video](https://github.com/harrythentrepreneur/screenshots-to-training-video)**: turn a folder of screenshots into a narrated how-to video (vision → script → AI presenter → auto-timed overlays).
-- **[Emotional Circumplex Viz](https://github.com/harrythentrepreneur/emotional-circumplex-viz)**: a D3.js emotion map drawn as soft, blending blobs.
-- **[video-SALMONN 2 on RunPod](https://github.com/harrythentrepreneur/video-SALMONN-2-runpod)**: run the video-SALMONN 2 audio-visual captioning model on RunPod serverless GPUs.
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Sayso](https://github.com/harrythentrepreneur/sayso)** | Customer support where the AI drafts and you tap Yes. Each reply is sent once, with proof. | Python, zero deps |
+| **[Voice Commander for Discord](https://github.com/harrythentrepreneur/discord-voice-commander)** | Run your Discord by voice from your phone: catch up, post, open threads, undo. | Node, realtime voice |
+| **[omo · hologram](https://github.com/harrythentrepreneur/omo-hologram)** | A holographic business assistant you talk to, with live data and charts in the air. | Gemini Live, Node |
+| **[Omni](https://github.com/harrythentrepreneur/omni)** | Point your phone at any object and it wakes up with a face and a voice. | Next.js, YOLO segmentation |
+| **[Screenshots → Training Video](https://github.com/harrythentrepreneur/screenshots-to-training-video)** | A folder of screenshots in, a narrated how-to video out. | GPT-4o, Gemini, FFmpeg |
+| **[Emotional Circumplex Viz](https://github.com/harrythentrepreneur/emotional-circumplex-viz)** | Emotions drawn as soft, blending blobs. | D3.js |
+| **[video-SALMONN 2 on RunPod](https://github.com/harrythentrepreneur/video-SALMONN-2-runpod)** | The video-SALMONN 2 audio-visual captioning model on RunPod serverless GPUs. | Python, RunPod |
 
-### 🧩 Contributions
+I also send fixes upstream to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)**, the open-source agent my whole setup runs on.
 
-- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** by Nous Research, the agent that grows with you. I run a fleet of Hermes profiles every day and send fixes upstream, mostly for the Discord gateway and session handling.
+## Products
 
-## 💼 Products
-
-- **[Omo](https://omo.space)**: find a proven AI workflow and run it for cents, or sell the `skill.md` you built.
+- **[Omo](https://omo.space)**: run a proven AI workflow for cents, or sell the one you built.
 - **[PhonicsMaker](https://www.phonicsmaker.com)**: decodable phonics books and resources for teachers and parents.
-- **[RapidWorksheet](https://rapidworksheet.com)**: curriculum-aligned worksheets to print or edit.
-- **[Baker](https://textbaker.com)**: text what you need and get it back ready to print. A texting agent for teachers.
+- **[RapidWorksheet](https://rapidworksheet.com)**: curriculum-aligned worksheets, ready to print or edit.
+- **[Baker](https://textbaker.com)**: text what you need and get it back ready to print.
 
-## 📄 Research
+## How I build
+
+- **The AI does the work; a person makes the decision.** Money, customer messages and anything public wait for a yes.
+- **Prove it.** A feature is done when it works on the live page, not when it looks right in a diff.
+- **Small steps, real users.** Ship, watch what breaks, then fix it.
+
+## Writing
 
 - *Omo Builder* technical report, with Kaviru Hapuarachchi (2026). [doi:10.13140/RG.2.2.29512.89604](https://doi.org/10.13140/RG.2.2.29512.89604)
-
-## 📫 Get in touch
-
-- Website: [omo.space](https://omo.space)
-- GitHub: [@harrythentrepreneur](https://github.com/harrythentrepreneur)
