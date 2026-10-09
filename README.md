@@ -36,6 +36,25 @@ things i built for real work, cleaned up and set free.
 and small fixes upstream to **[hermes agent](https://github.com/NousResearch/hermes-agent)**, the agent everything here runs on.
 
 ```
++ enzi studio, now open
+```
+
+the products we built at enzi studio in 2025, cleaned up and shared as-is.
+
+| | | |
+| --- | --- | --- |
+| **[focusgate](https://github.com/enzihub/focusgate)** | slack overload in, a morning brief out. | fastapi · next.js |
+| **[inboxclarity](https://github.com/enzihub/inboxclarity)** | the deadlines and blockers hiding in your inbox, in one morning email. | fastapi · gmail |
+| **[niyoz](https://github.com/enzihub/niyoz)** | daily youtube picks, summarised and sent to your inbox. | celery · next.js |
+| **[fubuu](https://github.com/enzihub/fubuu)** | a whatsapp voice note in, a post on x and linkedin out. | fastapi · openai |
+| **[shadowstone](https://github.com/enzihub/shadowstone)** | one command, a whole saas: next.js + fastapi, wired up. | python cli |
+| **[voice meeting booker](https://github.com/enzihub/voice-meeting-booker)** | an ai voice agent calls your prospect and books the meeting. | next.js · vapi |
+| **[email ai add-ins](https://github.com/enzihub/email-ai-addins)** | summarise, draft and chat with a thread, inside gmail and outlook. | apps script · office.js |
+| **[underoath](https://github.com/enzihub/underoath)** | a dark-fantasy action rpg that runs in the browser. | phaser |
+| **[league tools](https://github.com/enzihub/league-tools)** | a champion explorer and a* pathfinding on summoner's rift. | next.js · fastapi |
+| **[enzi labs](https://github.com/enzihub/enzi-labs)** | six runnable system-design and engineering labs. | python · next.js |
+
+```
 + products
 ```
 
