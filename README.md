@@ -64,9 +64,7 @@ the products we built at enzi studio in 2025, cleaned up and shared as-is.
 + how i build
 ```
 
-- the ai does the work. a person makes the call.
-- it's done when it works on the live page, not when the diff looks right.
-- ship small, watch what breaks, fix it.
+- trust the agi
 
 ```
 + writing
@@ -78,6 +76,6 @@ the products we built at enzi studio in 2025, cleaned up and shared as-is.
 + elsewhere
 ```
 
-[yifan.art](https://yifan.art) · [omo.space](https://omo.space)
+[omo research](https://omo.sh) · [yifan.art](https://yifan.art) · [omo.space](https://omo.space) · [baker](https://textbaker.com)
 
 <sub>yifan · 逸梵 © 2026</sub>
