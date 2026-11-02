@@ -13,7 +13,11 @@ unbounded & free-spirited
 
 started at 13 with shopify dropshipping. left school at 15 to do it full time, then built a fiverr video agency that did 19,600+ orders over six years, all bootstrapped and mostly solo.
 
-now building **[omo.space](https://omo.space)** with kaviru hapuarachchi: a marketplace of proven ai workflows. pick one, give it one input, get the finished result. pay cents to a few dollars per result, no subscription. every recipe is open.
+now building **[omo research](https://www.omo.sh/)** with kaviru hapuarachchi: a research lab exploring how people work with ai agents through voice, space and presence.
+
+we build interfaces and use them for real work. our current testbed is **[omo space](https://github.com/omoresearch/omo-space)**: persistent terminals, browser walls and voice-directed agents inside minecraft. i use it as my workspace and stream the experiments live. we're taking what we learn into a standalone spatial ide.
+
+[research log](https://www.omo.sh/about) · [rooms, not windows](https://www.omo.sh/research/rooms-not-windows/) · [watch the work](https://www.twitch.tv/yiifannn)
 
 ```
 + open source
@@ -23,6 +27,8 @@ things i built for real work, cleaned up and set free.
 
 | | | |
 | --- | --- | --- |
+| **[omo space](https://github.com/omoresearch/omo-space)** | real agent terminals and browser walls in a minecraft workspace you can build. | java · python · tmux · chromium |
+| **[omo, brought to life](https://github.com/omoresearch/omo-brought-to-life)** | a voice-directed agent that joins your world, moves and uses tools. | node · mineflayer · hermes · gpt-live |
 | **[sayso](https://github.com/harrythentrepreneur/sayso)** | ai support that waits for your say-so. it drafts, you tap yes, it sends once. | python · zero deps |
 | **[voice commander](https://github.com/harrythentrepreneur/discord-voice-commander)** | talk to your discord: catch up, post, open threads and undo, from your phone. | node · realtime voice |
 | **[omo · hologram](https://github.com/harrythentrepreneur/omo-hologram)** | a holographic operator for your business. ask out loud and the chart appears in the air. | gemini live |
@@ -58,7 +64,7 @@ the products we built at enzi studio in 2025, cleaned up and shared as-is.
 + products
 ```
 
-[omo](https://omo.space) · [phonicsmaker](https://www.phonicsmaker.com) · [rapidworksheet](https://rapidworksheet.com) · [baker](https://textbaker.com)
+[omo space](https://github.com/omoresearch/omo-space) · [phonicsmaker](https://www.phonicsmaker.com) · [rapidworksheet](https://rapidworksheet.com) · [baker](https://textbaker.com)
 
 ```
 + how i build
@@ -76,6 +82,6 @@ the products we built at enzi studio in 2025, cleaned up and shared as-is.
 + elsewhere
 ```
 
-[omo research](https://omo.sh) · [yifan.art](https://yifan.art) · [omo.space](https://omo.space) · [baker](https://textbaker.com)
+[omo research](https://www.omo.sh/) · [yifan.art](https://yifan.art) · [twitch](https://www.twitch.tv/yiifannn) · [baker](https://textbaker.com)
 
 <sub>yifan · 逸梵 © 2026</sub>
