@@ -39,7 +39,7 @@ things i built for real work, cleaned up and set free.
 | **[screenshots → video](https://github.com/harrythentrepreneur/screenshots-to-training-video)** | a folder of screenshots in, a narrated how-to video out. | gpt-4o · heygen |
 | **[emotional circumplex](https://github.com/harrythentrepreneur/emotional-circumplex-viz)** | emotions drawn as soft, blending blobs. | d3.js |
 
-and small fixes upstream to **[hermes agent](https://github.com/NousResearch/hermes-agent)**, the agent everything here runs on.
+and bug reports, interface proposals and pull requests to **[hermes agent](https://github.com/NousResearch/hermes-agent)**, the agent platform behind our workflows.
 
 ```
 + enzi studio, now open
